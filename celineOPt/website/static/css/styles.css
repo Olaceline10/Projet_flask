@@ -1,0 +1,17 @@
+body{
+    align-content: center;
+    font-family: serif;
+    border-width: 1px;
+    border-radius: 100px;
+    width: 100%;
+    background-color: rgb(56, 114, 130);
+    border-color: #e0e1ec;
+
+    margin: 50px;
+    padding: 20px;
+    box-shadow: 30px;
+ 
+    align-content: center;
+   align-items: center;
+  background-image: linear-gradient(blue,white);
+}
